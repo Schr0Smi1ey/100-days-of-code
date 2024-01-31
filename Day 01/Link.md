@@ -1,0 +1,5 @@
+- https://codeforces.com/problemset/problem/294/A
+- https://leetcode.com/problems/daily-temperatures/description/?envType=daily-question&envId=2024-01-31
+- https://codeforces.com/problemset/problem/799/A
+- https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1051
+- https://www.codechef.com/START119
