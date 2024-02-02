@@ -35,6 +35,9 @@ void solution() {
         else if(str[i] == '8'){
             ans += "2227";
         }
+        else if(str[i] == '9'){
+            ans += "7332";
+        }
         else{
             ans += str[i];
         }
