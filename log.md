@@ -31,7 +31,6 @@ Making strides in the coding journey, one algorithm at a time! 💻✨
 ✅CodeForces ,LeetCode problem-solving.
 ✅Participated contest in LeetCode.
 ✅Started learning Web-Dev(HTML) 💻
-Github: https://github.com/Schr0Smi1ey/100-days-of-code  
-Exciting times ahead!✨#100DaysOfCode #Coding  #DSA #Day3 #Day4 #CodingLife
+Exciting times ahead!✨
 
 **Thoughts:** Missed the update of day 3 because of some sort of business but got back into the track.Started Learing DSA and Web Dev.Hope i can manage both perfectly.
