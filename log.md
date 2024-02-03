@@ -25,7 +25,7 @@ Making strides in the coding journey, one algorithm at a time! 💻✨
 
 **Thoughts**: I've ventured the Linked Lists before, but due to a lack of consistent revision , I find myself grappling with it. However, I'm determined to overcome this hurdle.LeetCode and GFG POTD was easy though and did some cool problem on CF.
 
-### Day 3: February 03, 2024
+### Day 3 & 4: February 02 & 03, 2024
 🚀 Day 3 & 4 Progress: 
 ✅Tackled LeetCode, GFG POTD.
 ✅CodeForces ,LeetCode problem-solving.
