@@ -1,6 +1,5 @@
 class Solution{
   public:
-    /*You are required to complete this method */
     int atoi(string s) {
         int ans = 0, n = s.size();
         for(int i = n - 1,k = 1;i >= 0;i--){
