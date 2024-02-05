@@ -34,3 +34,20 @@ Making strides in the coding journey, one algorithm at a time! 💻✨
 Exciting times ahead!✨
 
 **Thoughts:** Missed the update of day 3 because of some sort of business but got back into the track.Started Learing DSA and Web Dev.Hope i can manage both perfectly.
+
+### Day 5: February 04,2024
+🚀 Day 5 Progress:
+
+✅ Tackled LeetCode POTD.
+✅ Participated contest in LeetCode.
+
+**Thoughts:**Had a very busy day with academics.Couldn't even manage time properly but still don't wanted to miss the streak.Let it going.
+
+### Day 6: February 05,2024
+
+🚀 Day 6 Progress:
+
+✅ Tackled LeetCode POTD.
+✅ CodeForces Problem Solving
+
+**Thoughts:** Again, Had a very busy day with academics.The most unproductive day today was, uh not to face it again in the upcoming days.
