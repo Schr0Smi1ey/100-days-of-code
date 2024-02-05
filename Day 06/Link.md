@@ -1,0 +1,4 @@
+- https://codeforces.com/problemset/problem/227/B
+- https://codeforces.com/problemset/problem/47/B
+- https://leetcode.com/problems/first-unique-character-in-a-string/description/?envType=daily-question&envId=2024-02-05
+- https://codeforces.com/problemset/problem/16/B
