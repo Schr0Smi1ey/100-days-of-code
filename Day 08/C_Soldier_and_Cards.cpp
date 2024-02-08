@@ -21,38 +21,41 @@ const int INF = 1e18, MINF = -1e18;
 const int N = 2e5 + 5;
 
 void solution() {
-    vector<string> v(3);
-    int a = 0,b = 0, c = 0;
-    for(int i=0;i<3;i++){
-        cin >> v[i];
-        if(v[i][1] == '<'){
-            swap(v[i][0],v[i][2]);
-            v[i][1] = '>';
+    int n;cin >> n;
+    int k1;cin >> k1;
+    deque<int> dq1(k1);
+    for(int i=0;i<k1;i++){
+        cin >> dq1[i];
+    }
+    int k2;cin >> k2;
+    deque<int> dq2(k2);
+    for(int i=0;i<k2;i++){
+        cin >> dq2[i];
+    }
+    int flag = 0;
+    while(flag <= 1e5){
+        if(dq1.size() == 0){
+            cout << flag <<  " " << 2;
+            return;
         }
-        if(v[i][0] == 'A') a++;
-        else if(v[i][0] == 'B') b++;
-        else c++;
-    }
-    string ans = "Impossible";
-    if(a == 2){
-        ans = "A";
-        if(b == 1){
-            ans += "BC";
+        if(dq2.size() == 0){
+            cout << flag << " " << 1;
+            return;
         }
-        if(c == 1) ans += "CB";
+        int a = dq1.front(),b = dq2.front();
+        dq1.pop_front();
+        dq2.pop_front();
+        if(a > b){
+            dq1.push_back(b);
+            dq1.push_back(a);
+        }
+        else if(b > a){
+            dq2.push_back(a);
+            dq2.push_back(b);
+        }
+        flag++;
     }
-    if(b == 2){
-        ans = "B";
-        if(a == 1) ans += "AC";
-        if(c == 1) ans += "CA";
-    }
-    if(c == 2){
-        ans = "C";
-        if(a == 1) ans += "AB";
-        if(b == 1) ans += "BA";
-    }
-    if(ans != "Impossible") reverse(ans.begin(),ans.end());
-    cout << ans;
+    cout << -1 << endl;
 }
 
 int32_t main() {
