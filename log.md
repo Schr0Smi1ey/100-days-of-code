@@ -51,3 +51,12 @@ Exciting times ahead!✨
 ✅ CodeForces Problem Solving
 
 **Thoughts:** Again, Had a very busy day with academics.The most unproductive day today was, uh not to face it again in the upcoming days.
+
+### Day 7,8,9,10,11: February 06,07,08,09,10
+
+🚀 Day 7,8,9,10,11 Progress:
+
+✅ Tackled LeetCode POTD EveryDay.
+✅ CodeForces Problem Solving.
+
+**Thoughts:** Never thought of such kind of busy day i will cross.Last few days were very unproductive as was busy here in varsity to arrange a tournament.Hope I will take the control very soon.
