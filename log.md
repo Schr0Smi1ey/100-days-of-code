@@ -60,3 +60,11 @@ Exciting times ahead!✨
 ✅ CodeForces Problem Solving.
 
 **Thoughts:** Never thought of such kind of busy day i will cross.Last few days were very unproductive as was busy here in varsity to arrange a tournament.Hope I will take the control very soon.
+
+### Day 12: February 06,07,08,09,10
+
+🚀 Day 12 Progress:
+
+✅ Upsolved 2 problems from LeetCode weekly contest.
+
+**Thoughts:** Got exam in the next day.Again, Had a very busy day.
