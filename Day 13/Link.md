@@ -1,0 +1,1 @@
+- https://leetcode.com/problems/majority-element/?envType=daily-question&envId=2024-02-12
